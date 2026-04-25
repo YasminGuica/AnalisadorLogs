@@ -4,7 +4,7 @@
 Este projeto é ideal para estudos de análise de dados, monitoramento de sistemas e prática com manipulação de arquivos, regex e visualização de dados.
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * ✔️ Leitura e parsing de logs nos formatos:
 
@@ -120,9 +120,3 @@ O próprio sistema cria um arquivo de teste (`sample_access.log`) automaticament
 
 ---
 
-## 👩‍💻 Autora
-
-Projeto desenvolvido por **Yasmin Nascimento**
-Estudante de Análise e Desenvolvimento de Sistemas
-
----
