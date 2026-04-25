@@ -1,0 +1,25 @@
+RELATÓRIO DE LOGS
+Arquivo,sample_access.log
+
+RESUMO,Valor
+Total Requests,15
+Total Errors,5
+Error Rate,33.33%
+Unique Ips,7
+Peak Hour,"(10, 5)"
+
+TOP 10 IPs,Requisições
+192.168.1.100,5
+192.168.1.101,3
+192.168.1.103,3
+192.168.1.102,1
+192.168.1.104,1
+192.168.1.108,1
+192.168.1.109,1
+
+Hora,Requisições
+10:00,5
+13:00,3
+14:00,2
+15:00,3
+16:00,2
