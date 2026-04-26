@@ -1,4 +1,4 @@
-﻿# 📊 Analisador de Logs
+﻿# Analisador de Logs
 É uma aplicação em Python desenvolvida para analisar arquivos de log de servidores web (como Apache ou Nginx). Ele processa os dados, identifica padrões de acesso, detecta erros e gera relatórios e gráficos para facilitar a visualização das informações.
 
 Este projeto é ideal para estudos de análise de dados, monitoramento de sistemas e prática com manipulação de arquivos, regex e visualização de dados.
@@ -18,8 +18,8 @@ Este projeto é ideal para estudos de análise de dados, monitoramento de sistem
   * Distribuição de erros (4xx e 5xx)
 * ✔️ Geração de relatórios:
 
-  * 📄 TXT (relatório detalhado)
-  * 📊 CSV (dados estruturados)
+  *  TXT (relatório detalhado)
+  *  CSV (dados estruturados)
 * ✔️ Criação de gráficos com Matplotlib:
 
   * Top IPs
@@ -30,7 +30,7 @@ Este projeto é ideal para estudos de análise de dados, monitoramento de sistem
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Python 3
 * Bibliotecas padrão:
@@ -46,7 +46,7 @@ Este projeto é ideal para estudos de análise de dados, monitoramento de sistem
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 log-analyzer/
@@ -61,7 +61,7 @@ log-analyzer/
 
 ---
 
-## ⚙️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### 1. Clone o repositório
 
@@ -94,13 +94,13 @@ Após a execução, o sistema irá gerar automaticamente:
 
 ---
 
-## 🧪 Exemplo de Uso
+##  Exemplo de Uso
 
 O próprio sistema cria um arquivo de teste (`sample_access.log`) automaticamente, permitindo executar o projeto sem precisar de dados externos.
 
 ---
 
-## 📈 Exemplos de Insights Gerados
+##  Exemplos de Insights Gerados
 
 * Qual IP mais acessa o servidor
 * Horários com maior volume de requisições
