@@ -84,7 +84,7 @@ python log_analyzer.py
 
 ---
 
-## 📊 Saídas Geradas
+##  Saídas Geradas
 
 Após a execução, o sistema irá gerar automaticamente:
 
@@ -110,7 +110,7 @@ O próprio sistema cria um arquivo de teste (`sample_access.log`) automaticament
 
 ---
 
-## 🔧 Possíveis Melhorias
+##  Possíveis Melhorias
 
 * Suporte a outros formatos de log
 * Interface gráfica (GUI ou Web)
